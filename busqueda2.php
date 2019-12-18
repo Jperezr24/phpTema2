@@ -21,7 +21,7 @@
   </ul>
   
 </nav>
-<h4 align="center" class="display-4">Display 2</h4>
+<h4 align="center" class="display-4">Busqueda</h4>
 
     <div class="jumbotron text-center">
     
